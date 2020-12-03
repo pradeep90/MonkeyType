@@ -16,6 +16,7 @@ django = "*"
 tox = "*"
 libcst = "*"
 dataclasses = "*"
+pyre-check = "*"
 
 [pipenv]
 keep_outdated = true
