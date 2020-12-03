@@ -16,3 +16,4 @@ monkeytype.sqlite3
 .tox/
 .DS_Store
 /.pyre/
+/.pyre_configuration
